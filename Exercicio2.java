@@ -2,7 +2,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Exercicio2 {
-
 	
 	public static boolean verificaValor(int valorEntrada) {
 		ArrayList<Integer> sequenciaVerificadora = montaSequenciaFibonacci(valorEntrada);
@@ -11,8 +10,7 @@ public class Exercicio2 {
 			
 			if(verifica == valorEntrada) {
 				return true;
-			}
-			
+			}	
 		}				
 		return false;
 		}
@@ -38,7 +36,6 @@ public class Exercicio2 {
 		return sequenciaFibonacci;
 	}
 	
-	
 	public static void main(String[] args) {
 		System.out.println("Digite um valor para saber se ele pertence na sequencia fibonacci:");
 		Scanner sc = new Scanner(System.in);
@@ -53,8 +50,6 @@ public class Exercicio2 {
 		else {
 			System.out.println("O numero digitado nao pertence a sequencia...");
 		}
-
-
 	}
-
+	
 }
