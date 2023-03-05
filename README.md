@@ -1,6 +1,6 @@
 # Teste Rafael Pierre - Target Sitemas - JobR otation RibeiraoPreto
 
-Este um repositório desenvolvido para um teste tecnico para aempresa Target Sistemas.
+Este um repositório desenvolvido para um teste tecnico para a empresa Target Sistemas.
 Nele apenas deixei alguns codigos respostas para as tarefas propostas.
 
 segue a baixo as demais respostas:
